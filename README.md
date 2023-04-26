@@ -11,3 +11,5 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+## Application deployment on Azure
+[Azure_Deployment.docx](https://github.com/seemanshu-shukla/FSDSRegressionProject/files/11336380/Azure_Deployment.docx)
